@@ -1,0 +1,6 @@
+namespace Subjects {
+  export interface Teacher {
+      firstName: string;
+          lastName: string;
+	    }
+	    }11;rgb:1e1e/1e1e/1e1e

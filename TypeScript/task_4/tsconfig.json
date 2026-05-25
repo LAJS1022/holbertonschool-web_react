@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+	"outDir": "./dist/",
+	"sourceMap": true,
+	"noImplicitAny": true,
+	"module": "commonjs",
+	"target": "es6",
+	"allowJs": true,
+	"moduleResolution": "node"
+    },
+    "files": [
+	"./js/subjects/Teacher.ts",
+	"./js/subjects/Subject.ts",
+	"./js/subjects/Cpp.ts",
+	"./js/subjects/React.ts",
+	"./js/subjects/Java.ts",
+	"./js/main.ts"
+    ]
+}
